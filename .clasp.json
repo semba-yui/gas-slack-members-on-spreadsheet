@@ -1,0 +1,7 @@
+{
+    "scriptId": "スクリプトのID",
+    "parentId": [
+        "スプレッドシートのID"
+    ],
+    "rootDir": "./dist"
+}
